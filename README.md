@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sanjay R</h1>
 <h3 align="center">A passionate frontend developerBuilding Scalable Full-Stack Applications • Backend-Focused Engineer • Exploring Agentic AI from India</h3>
 
-<p align="left"> <img src="[https://komarev.com/ghpvc/?username=sanjayravichandran-mscss&label=Profile%20views&color=0e75b6&style=flat](https://agt0s8jvqe.ufs.sh/f/Kn2JOlTZrvcDlGQrZ6jHu2MqRgYosvCaUDEZT6ybGe8Srdxn)" alt="sanjayravichandran-mscss" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sanjayravichandran-mscss" alt="sanjayravichandran-mscss" /></a> </p>
 
 - 🌱 I’m currently learning **Agentic AI ,Large Language Models (LLMs), AI Agents & Automation ,AWS Cloud, Advanced System Design, Scalable Backend Architecture**
 
